@@ -1,2 +1,5 @@
 # hello-world
-This site is a sample, I'm learning github
+Hi Friend!
+This is me trying to learn GitHub!
+Wish me luck!
+
